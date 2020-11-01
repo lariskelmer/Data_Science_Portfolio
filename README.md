@@ -10,7 +10,7 @@
 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Computer Engineering.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/larissa-kelmer-ms)
@@ -18,7 +18,6 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 ---
 
